@@ -10,30 +10,22 @@ function toggleSections(){
     switch(true){
         case inspiration:
             $('body').addClass('disable-inspiration');
-            break;
         case exhaustion:
             $('body').addClass('disable-exhaustion');
-            break;
         case ressources:
             $('body').addClass('disable-ressources');
-            break;
         case traits:
             $('body').addClass('disable-traits');
-            break;
     }
     switch(false){
         case inspiration:
             $('body').removeClass('disable-inspiration');
-            break;
         case exhaustion:
             $('body').removeClass('disable-exhaustion');
-            break;
         case ressources:
             $('body').removeClass('disable-ressources');
-            break;
         case traits:
             $('body').removeClass('disable-traits');
-            break;
     }
 }
 
