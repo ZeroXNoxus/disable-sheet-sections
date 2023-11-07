@@ -1,0 +1,27 @@
+{
+    "id": "disable-sheet-sections",
+    "title": "DnD 5e Disable Sheet Sections",
+    "description": "A simple module bringing customizablity to the DnD 5th edition character sheet. Disable Inspiration? No more Exhaustion? Done!",
+    "authors": [
+      {
+      "name": "ZeroXNoxus"
+      }
+      ],
+    "version": "0.1.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "scripts": [
+      "/script/disable-sheet-sections.js"
+    ],
+    "styles": [
+      "/css/disable-sheet-sections.css"
+    ],
+    "manifest": "https://github.com/ZeroXNoxus/disable-sheet-sections/releases/download/latest/module.json",
+    "url": "https://github.com/ZeroXNoxus/disable-sheet-sections",
+    "download": "https://github.com/ZeroXNoxus/disable-sheet-sections/archive/refs/tags/latest.zip",
+    "readme": "https://github.com/ZeroXNoxus/disable-sheet-sections/blob/latest/README.md",
+    "bugs": "https://github.com/ZeroXNoxus/disable-sheet-sections/issues",
+    "changelog": "https://github.com/ZeroXNoxus/disable-sheet-sections/releases"
+  }

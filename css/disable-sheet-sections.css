@@ -1,0 +1,6 @@
+body.disable-inspiration .dnd5e.sheet.actor .counter.flexrow.inspiration,
+body.disable-exhaustion .dnd5e.sheet.actor .counter.flexrow.exhaustion,
+body.disable-ressources section.center-pane.flexcol ul.attributes.flexrow,
+body.disable-traits .form-group:has( .config-button){
+    display:none;
+}
